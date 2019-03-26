@@ -1,0 +1,13 @@
+*{
+padding:0;
+margin:0;
+}
+#lado_1 {
+display:block;
+margin:0px;	
+float:left;
+}
+#lado_2{
+display:block;
+margin:20px;
+}
